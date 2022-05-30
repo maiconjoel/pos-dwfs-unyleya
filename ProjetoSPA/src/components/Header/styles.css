@@ -1,0 +1,31 @@
+.container-main{
+    background-color:#0c7c64;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 65px;
+    padding: 0 7%;
+}
+
+.container-main ul{
+    list-style: none;
+    display: flex;
+}
+
+.container-main li{
+    padding: 0 20px;    
+}
+
+.container-main h1{
+    font-weight: 300;   
+}
+
+.container-main a{
+    text-decoration: none;
+    color: white;
+}
+.container-main a:hover{
+    text-decoration: none;
+    color: #d2ae6d;
+}

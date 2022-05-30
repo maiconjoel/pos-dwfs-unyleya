@@ -1,0 +1,29 @@
+.container-service{
+    max-width: 450px;
+    background-color: #f3f3f3;
+    margin: 2%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-service img{
+    max-width: 350px;
+    margin: 20px 0;
+}
+
+.container-service h2{
+    margin: 20px 0;
+    height: 26px;
+    font-style: normal;
+    font-weight: 300;
+    color: #d2ae6d;    
+}
+
+.container-service p{
+    margin: 20px 0;
+    line-height: 1.5;
+    text-align: center;
+}
